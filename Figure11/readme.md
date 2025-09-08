@@ -1,1 +1,1 @@
-
+In this section, you must first install the LBM model, for which you may refer to the study cited in our methodology or online guides. After Obtaining the output results, you can utilise poumian_*.ncl and plot_.*ncl to plot the relevant vertical cross-sections diabatic heating and the forced potential height field.
